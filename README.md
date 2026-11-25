@@ -61,4 +61,6 @@ $$\text{Psychedelic Affinity} = 2.5 \cdot \text{OpennessScore} + \text{NoveltySe
 
 ## 👤 Author
 **Pooya Cheshmehkhavar**  
-- GitHub: [@PooyaCheshmehkhavar](https://github.com/PooyaCheshmehkhavar)
+- **LinkedIn:** [Pooya Cheshmehkhavar](https://www.linkedin.com/in/pooya-cheshmehkhavar-2b162434a/)
+- **Email:** [pooyacj5040@gmail.com](mailto:pooyacj5040@gmail.com)
+- **GitHub:** [@PooyaCheshmehkhavar](https://github.com/PooyaCheshmehkhavar)
